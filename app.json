@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "MapsRockeat",
+    "slug": "MapsRockeat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
