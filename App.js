@@ -9,7 +9,9 @@ const{height,width} = Dimensions.get('screen');
 
 const GOOGLE_API_KEY = 'AIzaSyA1Y62ie7t-jwcm7_KRkojSn4fiUgQoqtE';
 
-const CedirLabsOrigin = {latitude:-16.461715, longitude:-54.638717};
+const ecoPontoJardimTal = {latitude:-16.461715, longitude:-54.638717};
+const ecoPontoJardimTal1 = {latitude:-16.461715, longitude:-54.638717};
+const ecoPontoJardimTal2 = {latitude:-16.461715, longitude:-54.638717};
 
 const origin = {latitude: 37.3318456, longitude: -122.0296002};
 const destination = {latitude: 37.771707, longitude: -122.4053769};
